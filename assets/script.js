@@ -202,7 +202,7 @@ function finish() {
       var newScore = JSON.stringify(finalScores);
       localStorage.setItem("finalScores", newScore);
       // This will take you to the high-score.html
-      window.location.replace("https://kristiyantefov.github.io/TechQuiz/assets/high-score.html");
+      window.location.replace("https://datahaed.github.io/-/assets/high-score.html");
     }
   });
 }
