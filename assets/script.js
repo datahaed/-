@@ -61,7 +61,7 @@ var container = document.querySelector("#container");
 //Holders for the timer and penalty 
 var secondsLeft = 100;
 var holdInterval = 0;
-var penalty = 15;
+var penalty = 5;
 
 var createUl = document.createElement("ul");
 //Event listener for the start button to start the quiz and the timer
